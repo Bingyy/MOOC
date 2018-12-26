@@ -1,2 +1,14 @@
-### MOOC
-I am using this repo to record what I learn from MOOC courses.
+### TODO
+
+### ONGOING
+
+#### Machine Learning, Standard University
+
+- [Machine Learning, Andrew Ng](https://www.coursera.org/learn/machine-learning)
+
+
+
+### DONE
+
+
+
